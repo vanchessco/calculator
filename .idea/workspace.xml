@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e616c2b2-c7a0-4fa8-b63c-56c19e9be222" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery_service/src/main/java/org/example/Discovery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery_service/src/test/java/org/example/DiscoveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/exception/util/ExceptionDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/exception/util/ExceptionDetailConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/main/java/org/example/exception/visitor/VisitorNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entity/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/org/example/Gateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/src/main/java/org/example/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/src/main/java/org/example/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/src/main/java/org/example/exception_handler/RestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_service/src/test/java/org/example/RestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/src/main/java/org/example/Web.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/src/main/resources/templates/expr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_service/src/main/resources/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N3HyruUgRTQY2t1VufnLBp00tE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "C:/Users/L/IdeaProjects/pivotal-certified-pro-spring-dev-exam-02",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "8b1a594429009dbbc753f890ef8699e9"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\L\IdeaProjects\calculator\gateway\src\main\resources" />
+      <recent name="C:\Users\L\IdeaProjects\calculator\gateway\src\main" />
+      <recent name="C:\Users\L\IdeaProjects\calculator\rest_service\src\main\java\org\example\v2\service" />
+      <recent name="C:\Users\L\IdeaProjects\calculator\rest_service\src\main\java\org\example\v1\service\calculating" />
+      <recent name="C:\Users\L\IdeaProjects\calculator\web_service\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.controller" />
+      <recent name="org.example.v1.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.v2.controller" />
+      <recent name="org.example.repo.visitor" />
+      <recent name="org.example.domain.role" />
+      <recent name="org.example.domain.util" />
+      <recent name="org.example.domain.base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorServicePositiveUnitTest">
+    <configuration name="CalcRestControllerV1IntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.v1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.v1.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.v1.controller.CalcRestControllerV1IntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcRestControllerV1IntegrationTest.calculatePositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.v1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.v1.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.v1.controller.CalcRestControllerV1IntegrationTest" />
+      <option name="METHOD_NAME" value="calculatePositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServiceNegativeUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.v1.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.v1.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.v1.service.CalculatorServiceNegativeUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServicePositiveUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.v1.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.v1.service" />
+      <option name="MAIN_CLASS_NAME" value="org.example.v1.service.CalculatorServicePositiveUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorWebControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.controller.CalculatorWebControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="discovery-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="discovery_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Discovery" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Gateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="rest_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Rest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="web-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="web_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CalcRestControllerV1IntegrationTest" />
+      <item itemvalue="JUnit.CalcRestControllerV1IntegrationTest.calculatePositive" />
+      <item itemvalue="JUnit.CalculatorServiceNegativeUnitTest" />
+      <item itemvalue="JUnit.CalculatorServicePositiveUnitTest" />
+      <item itemvalue="JUnit.CalculatorWebControllerIntegrationTest" />
+      <item itemvalue="Spring Boot.gateway-server" />
+      <item itemvalue="Spring Boot.web-server" />
+      <item itemvalue="Spring Boot.rest-server" />
+      <item itemvalue="Spring Boot.discovery-server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorServicePositiveUnitTest" />
+        <item itemvalue="JUnit.CalculatorServiceNegativeUnitTest" />
+        <item itemvalue="JUnit.CalcRestControllerV1IntegrationTest" />
+        <item itemvalue="JUnit.CalculatorWebControllerIntegrationTest" />
+        <item itemvalue="JUnit.CalcRestControllerV1IntegrationTest.calculatePositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e616c2b2-c7a0-4fa8-b63c-56c19e9be222" name="Changes" comment="" />
+      <created>1678886106940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678886106940</updated>
+      <workItem from="1678886108914" duration="608000" />
+      <workItem from="1679087192072" duration="938000" />
+      <workItem from="1679136580727" duration="6042000" />
+      <workItem from="1679162689822" duration="5090000" />
+      <workItem from="1679229152648" duration="7050000" />
+      <workItem from="1679329535133" duration="12219000" />
+      <workItem from="1679397700659" duration="39870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

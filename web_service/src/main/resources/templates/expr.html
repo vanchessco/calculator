@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<style>
+    .error {
+        color: red;
+    }
+</style>
+
+<form th:action="@{/calc}" th:object="${calc}" method="post">
+    Введите выражение: <input type="text" th:field="*{expression}">
+    <button type="submit">Вычислить</button>
+    <br>
+</form>
+<p>Выражениe: <span th:text="${expression}"></span></p>
+<p>Ответ: <span th:text="${answer}"></span></p>
+<p>Ошибка: <span class="error" th:text="${error}"></span></p>
+<br>
+<dl>
+    <dt>Поддерживаемые операции:</dt>
+        <dd>1) *,/,+,-(в т.ч. унарный), .</dd>
+        <dd>2) min(),max(): 1 или 2 аргумента через запятую; может вычислять выражения с подвыражениями</dd>
+        <dd>3) sin(),cos(),tan(): 1 аргумент;может вычислять выражения с подвыражениями</dd>
+        <dd>4) log(),logB(),logD(): log-натуральный и logD-десятичный c 1 аргументом или выражением; logB(основание,число); все могут вычислять выражения с подвыражениями</dd>
+        <dd>5) sqrt(): квадратный корень числа или выражения</dd>
+        <dd>6) pow(): возведение в степерь числа или выражения</dd>
+        <dd>7) допустимый синтаксис: 'число.число','число.'</dd>
+        <dd>8) регистр функций должен соответсвовать примеру в инструкции</dd>
+</dl>
+
+
+
+
+</body>
+</html>
