@@ -4,6 +4,15 @@
 
 ![scheme](https://github.com/vanchessco/calculator/blob/master/calculator.png)
 
+
+**Порядок запуска:**
+
+  1)Discovery server
+  2)Rest server
+  3)Web server
+  4)Gateway server
+  Стартовая страница доступная по адресу: localhost:8080
+  
 **Использовались следующие технологии:**
   
   1)Spring boot
