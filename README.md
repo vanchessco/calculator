@@ -29,7 +29,7 @@
   
   5)Hibernate
   
-  6))Maven
+  6)Maven
 
   7)H2 dataBase
   
