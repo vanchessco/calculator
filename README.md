@@ -34,5 +34,9 @@
   7)H2 dataBase
   
   8)Rest API
+  
+  9)Swagger API
+
+ 10)Thymeleaf 
 
   
