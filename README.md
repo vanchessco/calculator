@@ -1,5 +1,6 @@
 # Calculator
-**Принцип работы: **
+
+**Принцип работы:**
 
 ![scheme](https://github.com/vanchessco/calculator/blob/master/calculator.png)
 
