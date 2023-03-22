@@ -1,6 +1,8 @@
 # Calculator
 **Принцип работы: **
+
 ![scheme](https://github.com/vanchessco/calculator/blob/master/calculator.png)
+
 **Использовались следующие технологии:**
   
   1)Spring boot
