@@ -8,9 +8,13 @@
 **Порядок запуска:**
 
   1)Discovery server
+  
   2)Rest server
+  
   3)Web server
+  
   4)Gateway server
+  
   Стартовая страница доступная по адресу: localhost:8080
   
 **Использовались следующие технологии:**
