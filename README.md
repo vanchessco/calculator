@@ -2,7 +2,7 @@
 
 **Принцип работы:**
 
-![scheme](https://github.com/vanchessco/calculator/blob/master/calculator.png)
+![scheme](https://github.com/vanchessco/calculator/blob/master/calc.png)
 
 
 **Порядок запуска:**
