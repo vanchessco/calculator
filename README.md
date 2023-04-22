@@ -5,6 +5,8 @@
 ![scheme](https://github.com/vanchessco/calculator/blob/master/calc.png)
 
 
+Калькулятор создан на основе метода рекурсивного спуска.
+
 **Порядок запуска:**
 
   1)Discovery service
